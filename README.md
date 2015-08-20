@@ -1,6 +1,13 @@
-# CSV to Web Map...Easy Right?
+# Working with web maps 
+
+CSV to Web Map...Easy Right?
 
 Note: this tutorial is still a work in progress. this is a rough draft!
+
+### Slides
+http://slides.com/kimph/deck-4#/
+
+
 
 ### Learning Objectives
 * Manipulate tabular data progammatically to extract geonames and create location-based data
